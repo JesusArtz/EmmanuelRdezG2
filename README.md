@@ -1,6 +1,6 @@
 ## I'm Emma 🤠, full stack developer from Mexico
 ![](https://walfiegif.files.wordpress.com/2020/11/out-transparent-20.gif)
-<div align="center">
+<div align="center" style="display: inline_block>
   <a href="https://github.com/ItsMeEmmanuelG2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsMeEmmanuelG2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeEmmanuelG2&layout=compact&langs_count=7&theme=dark"/>
