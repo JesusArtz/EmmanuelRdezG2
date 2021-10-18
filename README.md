@@ -2,8 +2,8 @@
 ![](https://walfiegif.files.wordpress.com/2020/11/out-transparent-20.gif)
 <div align="center" style="display: inline_block>
   <a href="https://github.com/ItsMeEmmanuelG2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsMeEmmanuelG2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeEmmanuelG2&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ItsMeEmmanuelG2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeEmmanuelG2&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ### My skills
@@ -26,7 +26,6 @@
   <div> 
     <br>
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
  <a href="https://discord.com/invite/c9FBJBtjEN" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 </div>
