@@ -1,14 +1,14 @@
 ## I'm Emma, frontend developer from Mexico 🤠
+
 <div align="center" style="display: inline_block>
   <a href="https://github.com/ItsMeEmmanuelG2">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=EmmanuelRdezG2&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelRdezG2&layout=compact&langs_count=7&theme=radical"/>
 </div>
-                                                                                                                                                  
 
 
-  
 ## My skills
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -26,6 +26,6 @@
     <br>
  
  ![](https://walfiegif.files.wordpress.com/2020/11/out-transparent-20.gif)
-
+  ![Snake animation](https://github.com/EmmanuelRdezG2/EmmanuelRdezG2/blob/output/github-contribution-grid-snake.svg)
  
 </div>
