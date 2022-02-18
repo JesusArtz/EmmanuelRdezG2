@@ -1,6 +1,6 @@
 ## I'm Emma, frontend developer from Mexico 🤠
 
-<div align="center" style="display: inline_block>
+<div align="center" style="display: inline_block">
   <a href="https://github.com/ItsMeEmmanuelG2">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=EmmanuelRdezG2&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelRdezG2&layout=compact&langs_count=7&theme=radical"/>
