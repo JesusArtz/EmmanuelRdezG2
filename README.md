@@ -6,7 +6,6 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelRdezG2&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-
 ## My skills
 
 <div style="display: inline_block"><br>
@@ -26,6 +25,7 @@
     <br>
  
  ![](https://walfiegif.files.wordpress.com/2020/11/out-transparent-20.gif)
-  ![Snake animation](https://github.com/EmmanuelRdezG2/EmmanuelRdezG2/blob/output/github-contribution-grid-snake.svg)
- 
+
+![Snake animation](https://github.com/EmmanuelRdezG2/EmmanuelRdezG2/blob/output/github-contribution-grid-snake.svg)
+
 </div>
